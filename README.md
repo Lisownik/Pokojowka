@@ -1,14 +1,14 @@
 # Pokojoweczka ale mi sie udało
 
-##Zasada pierwsza
+## Zasada pierwsza
 
 Zenic nie posiada praw (do "ale mi sie udało")
 
-###Zasada druga
+### Zasada druga
 
 System OKO bad
 
-####Zasada trzecia
+#### Zasada trzecia
 
 Co tu robi Benjamin
 
